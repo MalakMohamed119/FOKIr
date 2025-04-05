@@ -3,7 +3,7 @@
 }
 .headerr{
    width: 100%;
-   background-image: url(/fokir/slider-02.jpg)  ;
+   background-image: url(../fokir/slider-02.jpg);
    background-position: center;
    background-size: cover;
    height: 100vh;
